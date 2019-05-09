@@ -9,5 +9,5 @@ def szamlalo(datum):
       final= delta.days
       l.append(final)
       print(l[0],"napot kell még aludni mikulásig")
-print(timer("2015-02-07"))
+print(szamlalo("2015-02-07"))
 
