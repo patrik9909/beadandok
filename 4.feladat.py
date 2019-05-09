@@ -1,4 +1,4 @@
-def timer(datum):
+def szamlalo(datum):
       from datetime import datetime
       datumkon=datum.split("-")
       l=[]
